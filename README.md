@@ -1,7 +1,7 @@
 <h1 align='center'> HSSG Employee Management System </h1>
 
 <!-- tag line -->
-<h3 align='center'> Philippine Airforce 'Headquarters Service Support Group (HSSG)'<br>Employee Management System using Java Swing GUI (CODE) </h3>
+<h3 align='center'> Philippine Air Force 'Headquarters Service Support Group (HSSG)'<br>Employee Management System using Java Swing GUI (CODE) </h3>
 
 
 <!-- personal badges -------------------------------------->
@@ -58,7 +58,7 @@
 <!-- ------ -->
 
 ## 🖍 About
-- The <b>"HSSG Employee Management System"</b> by Emman P. Barrameda is our mini capstone project developed using Java Swing during my second year of college at URS Binangonan. This system was created based on client suggestions and includes features for recording church member data and managing church transactions. <b>Please note that this project is <u>not open source</u> due to our client's policy.</b> However, you can reach out to me for freelancing on your project, and I can incorporate similar features into your required project. Feel free to [contact me](#get-in-touch).
+- The <b>"HSSG Employee Management System"</b> by Emman P. Barrameda is <b>one of my freelance project</b> on year <b>2021</b> as a Desktop Application Developer. This system was created based on client suggestions and includes features for recording and managing employee data of Philippine Air Force HSSG. <b>Please note that this project is <u>not open source</u> due to our client's policy.</b> However, you can reach out to me for freelancing on your project, and I can incorporate similar features into your required project. Feel free to [contact me](#get-in-touch).
 
 <br>
 
@@ -66,14 +66,14 @@
 
 ## 💻 User Interface
 
-- <b>Customizing MySQL Connection, Splash Screen and Login GUI PREVIEW</b>
+- <b>Splash Screen and Login GUI PREVIEW</b>
 <p align="center">
-  <img src="https://github.com/emmanpbarrameda/HSSG-EmpMgmtSystem_Java-PREVIEW/blob/main/output-folder/console-video1.gif" width="800" alt="Systen Preview" />
+  <img src="https://github.com/emmanpbarrameda/HSSG-EmpMgmtSystem_Java-PREVIEW/blob/main/output-media/console_video1.gif" width="800" alt="Systen Preview" />
 </p>
 
-- <b>Main Menu and Features PREVIEW</b>
+- <b>Main Admin and Sub-Admin Menu and Features PREVIEW</b>
 <p align="center">
-  <img src="https://github.com/emmanpbarrameda/HSSG-EmpMgmtSystem_Java-PREVIEW/blob/main/output-folder/console-video2.gif" width="800" alt="System Preview" />
+  <img src="https://github.com/emmanpbarrameda/HSSG-EmpMgmtSystem_Java-PREVIEW/blob/main/output-media/console_video2.gif" width="800" alt="System Preview" />
 </p>
 
 
@@ -88,15 +88,10 @@
 - <b>Login System: </b> Allows authorized users to access the system securely.
 - <b>Auto Login:</b> User accounts will be automatically logged in if the user does not use the logout button and only exits the desktop application by clicking the EXIT (X) button.
 - <b>Manageable User Accounts: </b> Enables the creation, modification, and deletion of user accounts.
-- <b>Two User Types: </b> Admin and Secretary - (with varying levels of privileges)
-- <b>Manageable Membership Data: </b> Record (Search, Insert, Update and Delete) Church Membership Data.
-- <b>Manageable Transaction Data: </b> Record (Search, Insert, Update and Delete) Church Transaction Data.
-- <b>Live Calendar Events Viewer:</b> The system provides a real-time calendar events viewer, allowing users to stay updated on upcoming events and activities. Users can view event details, dates, and relevant information directly within the system interface.
-- <b>Membership and Transaction Excel Report: </b> Automatically generates Excel File Report for Membership and Transaction Data.
-- <b>Membership Information PDF: </b> Automatically generates PDF informationn of members.
-- <b>Transaction PDF: </b> Automatically generates PDF informationn of selected transaction.
+- <b>Two User Types: </b> Main Admin and Sub Admin - (with varying levels of privileges)
+- <b>Manageable Employee Data: </b> Record (Search, Insert, Update and Delete) Employee Data.
+- <b>List of Employees Excel Report:</b> Automatically generates an Excel file report of the list of employees.
 - <b>Audit Trail: </b> Tracks and records all system activities, ensuring accountability and transparency.
-- <b>Live System Console & Audit Trail: </b> Tracks and records all system activities, ensuring accountability and transparency.
 - <b>Configurable System Settings: </b> Allows customization of various system parameters as per requirements.
 <br>
 
@@ -106,8 +101,8 @@
 - <b>Java Programming Language: </b> This Application is Developed using Java.
 - <b>Java Swing: </b>  Is used to create an interactive user interface.
 - <b>FlatLaf: </b> A Java library that gives a modern and flat look to Swing applications, providing customizable UI components and themes for an enhanced visual experience.
-- <b>MySQL Database: </b> The system uses MySQL for efficient data storage and retrieval.
-- <b>MySQL Workbench: </b> MySQL Workbench is a visual tool for managing MySQL databases.
+- <b>SQLite Database: </b>  Utilized for efficient data storage and retrieval.
+- <b>SQLite Browser: </b> Is a user-friendly application for managing and working with SQLite databases. It enables the easiest way to view, edit, and query SQLite files.
 - <b>NetBeans Apache IDE: </b>  Chosen as the development environment for its comprehensive tools and features.
 <br>
 
